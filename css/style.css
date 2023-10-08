@@ -35,10 +35,13 @@ h1{
     color: rgb(110, 0, 0);
 }
 h2{
-    color: rgb(4, 54, 4);
+    color: rgb(4, 91, 4);
 }
 
-.types{
-    display: block;
-    margin-top: -43%;
+
+.vid-image-container{
+    display: inline;
+}
+body{
+    background-color: rgb(96, 155, 171);
 }
