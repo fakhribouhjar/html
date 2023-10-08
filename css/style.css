@@ -1,0 +1,44 @@
+
+.paragraphe{
+    color: blue;
+} 
+#header{
+    color: blue;
+}
+
+.box > p{
+    color: red;
+}
+ 
+a:link {
+    color: rgb(0, 0, 0);
+}
+a:visited {
+    color: rgb(132, 5, 250);
+}
+a:hover {
+    color: rgb(93, 91, 93);
+}   
+a:active{
+    color: rgb(102, 2, 92);
+}
+
+body{
+    font-size: larger;
+
+}
+.center{
+    text-align: center;
+    
+        }
+h1{
+    color: rgb(110, 0, 0);
+}
+h2{
+    color: rgb(4, 54, 4);
+}
+
+.types{
+    display: block;
+    margin-top: -43%;
+}
